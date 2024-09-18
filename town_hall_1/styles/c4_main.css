@@ -7,7 +7,7 @@ body {
 /* the styles for the header */
 header img {
 	float: left;
-}
+}<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 
 /* the styles for the main content */
 main {
